@@ -8,7 +8,7 @@ import {
 } from "react-icons/fa6";
 import { company, services } from "@/lib/site-data";
 import { Reveal } from "@/components/anim/Reveal";
-import logoAsset from "@/assets/Rok-Online-Logo.png;
+import logoAsset from "@/assets/Rok-Online-Logo.png";
 
 export function Footer() {
   return (
