@@ -19,7 +19,7 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-2.5">
               <img
-                src={logoAsset.url}
+                src={logoAsset}
                 alt="Rok Online"
                 className="h-9 w-auto object-contain"
               />
