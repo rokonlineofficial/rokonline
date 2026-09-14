@@ -547,7 +547,7 @@ export const team = [
     image: founderPhoto,
   },
   {
-    name: "S. Karim",
+    name: "Abu Sayeed",
     role: "Senior Software Developer",
     skills: ["JS", "PHP", "React Native"],
     initials: "SK",
