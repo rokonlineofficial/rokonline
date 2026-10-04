@@ -576,13 +576,6 @@ export const team = [
     image: azizPhoto,
   },
 
-  {
-    name: "Sohanur Rahman",
-    role: "Videographer",
-    skills: ["Premiere Pro", "After Effects", "Motion"],
-    initials: "RS",
-    image: sohanurPhoto,
-  },
 
   {
     name: "Sheikh Farid",
