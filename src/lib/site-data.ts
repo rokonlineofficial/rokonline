@@ -4,7 +4,6 @@ import softwareDev from "@/assets/Senior-App-Developer.jpg";
 import helalPhoto from "@/assets/AL-Helal.webp";
 import nahidPhoto from "@/assets/Nahid-Hassan.webp";
 import azizPhoto from "@/assets/Azizul-Islam-Aziz.webp";
-import sohanurPhoto from "@/assets/Sohanur-Rahman-1.webp";
 import jashimPhoto from "@/assets/Josim-Uddin.webp";
 import mehediPhoto from "@/assets/Mahadi-hasan.webp";
 import badshaPhoto from "@/assets/Abdur-Rahman-Badsha.webp";
